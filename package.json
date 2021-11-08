@@ -1,6 +1,6 @@
 {
-  "name": "bloggify-pug-renderer",
-  "description": "pug renderer for Bloggify.",
+  "name": "bloggify-renderer-pug",
+  "description": "Pug renderer for Bloggify.",
   "keywords": [
     "bloggify",
     "pug",
@@ -28,14 +28,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-pug-renderer.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-renderer-pug.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-pug-renderer/issues"
+    "url": "https://github.com/IonicaBizau/bloggify-renderer-pug/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-pug-renderer#readme",
+  "homepage": "https://github.com/IonicaBizau/bloggify-renderer-pug#readme",
   "dependencies": {
     "noop6": "^1.0.2",
-    "pug": "^2.0.0-beta6"
+    "pug": "^3.0.2"
   }
 }

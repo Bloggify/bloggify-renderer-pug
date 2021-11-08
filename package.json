@@ -28,12 +28,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-renderer-pug.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-renderer-pug.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-renderer-pug/issues"
+    "url": "https://github.com/Bloggify/bloggify-renderer-pug/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-renderer-pug#readme",
+  "homepage": "https://github.com/Bloggify/bloggify-renderer-pug#readme",
   "dependencies": {
     "noop6": "^1.0.2",
     "pug": "^3.0.2"
